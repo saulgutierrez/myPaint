@@ -7,4 +7,7 @@ Simple drawing app for desktop. With this app you can draw anything you want, li
 Technologies used:
 
 <li>C#</li>
-<li>.NET Framework 6.0</li>
+<li>.NET Framework 6.0</li> <br>
+
+![image](https://github.com/saulgutierrez/myPaint/assets/62368834/3658a6b6-4235-4e63-8ae1-0592fd28a5e7)
+
